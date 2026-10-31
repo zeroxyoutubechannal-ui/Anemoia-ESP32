@@ -40,7 +40,7 @@
     // 4000000)
     #define SD_FREQ                  80000000
     #define SD_MOSI_PIN              13
-    #define SD_MISO_PIN              12
+    #define SD_MISO_PIN              19
     #define SD_SCLK_PIN              14
     #define SD_CS_PIN                -1
     #define SD_SPI_PORT              HSPI
