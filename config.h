@@ -50,14 +50,14 @@
     // CS=5 HSPI: MOSI=13, MISO=12, SCLK=14, CS=15
 
     // Button pins
-    #define A_BUTTON                 22
-    #define B_BUTTON                 16
+    #define A_BUTTON                 15
+    #define B_BUTTON                 26
     #define LEFT_BUTTON              32
-    #define RIGHT_BUTTON             33
-    #define UP_BUTTON                15
-    #define DOWN_BUTTON              26
-    #define START_BUTTON             17
-    #define SELECT_BUTTON            27
+    #define RIGHT_BUTTON             17
+    #define UP_BUTTON                22
+    #define DOWN_BUTTON              16
+    #define START_BUTTON             32
+    #define SELECT_BUTTON            33
 
     // NES controller pins
     #define CONTROLLER_NES_CLK       32
