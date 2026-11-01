@@ -55,7 +55,7 @@
     #define LEFT_BUTTON              32
     #define RIGHT_BUTTON             33
     #define UP_BUTTON                15
-    #define DOWN_BUTTON              21
+    #define DOWN_BUTTON              26
     #define START_BUTTON             17
     #define SELECT_BUTTON            27
 
