@@ -52,8 +52,8 @@
     // Button pins
     #define A_BUTTON                 15
     #define B_BUTTON                 26
-    #define LEFT_BUTTON              32
-    #define RIGHT_BUTTON             17
+    #define LEFT_BUTTON              17
+    #define RIGHT_BUTTON             27
     #define UP_BUTTON                22
     #define DOWN_BUTTON              16
     #define START_BUTTON             32
